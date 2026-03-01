@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: formkit-optimizer-api
+    name: formkit_optimizer_api
     runtime: python
     rootDir: formkit-optimizer
     buildCommand: pip install -r requirements.txt
